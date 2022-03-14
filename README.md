@@ -2,7 +2,7 @@
 
 🎓 I’m beginner **ASP.NET Developer** and 3rd year student of the faculty of Information Technology Security at ITMO University. 
 
-👯 I’m looking for a team on .NET projects.
+👯 I’m looking for a team for a Web Application projects.
 
 ### Languages and Tools
 
