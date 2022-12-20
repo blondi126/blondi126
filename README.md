@@ -2,8 +2,6 @@
 
 🎓 I’m middle **ASP.NET Developer** and 4th year student of the faculty of Information Technology Security at ITMO University. 
 
-👯 I’m looking for a team for a Web Application projects.
-
 ### Languages and Tools
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
