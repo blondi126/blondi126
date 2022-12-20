@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-🎓 I’m middle **ASP.NET Developer** and 4th year student of the faculty of Information Technology Security at ITMO University. 
+🎓 I’m **ASP.NET Developer** and 4th year student of the faculty of Information Technology Security at ITMO University. 
 
 ### Languages and Tools
 
