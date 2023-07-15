@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-🎓 I’m **.NET Developer** and 1st year student of the masters's program in AI at ITMO University. 
+🎓 I’m **.NET Developer** and 1st year student of the master's program in AI at ITMO University. 
 
 ### Languages and Tools
 
